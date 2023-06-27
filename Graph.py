@@ -12,7 +12,8 @@ class Graph:
         self.adj_list[source].append(destination)
 
     #BFS implementation
-    def BFS(self, start_node):
+    def BFS(self, start_node, destination_node):
+        print()
         queue = []
         found = {}
         for i in self.adj_list.keys():
@@ -25,13 +26,16 @@ class Graph:
             item = queue.pop(0)
             print(' -> ', item, end='')
 
+            if item == destination_node:
+                break
+
             for i in self.adj_list[item]:
                  if not found[i]:
                      queue.append(i)
                      found[i] = True
 
     #DFS Implementation
-    def DFS(self, start_node):
+    def DFS(self, start_node, destination_node):
         print()
         stack = []
         found = {}
@@ -45,6 +49,9 @@ class Graph:
             if not found[item]:
                 print(' -> ', item, end='')
                 found[item] = True
+
+                if item == destination_node:
+                    break
 
             for i in self.adj_list[item]:
                 stack.append(i)
@@ -63,5 +70,8 @@ graph1.add_edge('G', 'H')
 graph1.add_edge('H', 'A')
 graph1.add_edge('H', 'B')
 
-graph1.BFS('D')
-graph1.DFS('D')
+graph1.BFS('D', 'B')
+graph1.DFS('D', 'A')
+
+graph1.BFS('D','H')
+graph1.DFS('D','H')

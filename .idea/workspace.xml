@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90bd6e53-441d-4711-a2c1-c4428bd03b42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Built in Heap.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Circular Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Circular_Linked_List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Heap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Linked_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linked_List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice.py" beforeDir="false" />
@@ -43,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Heap">
+  <component name="RunManager" selected="Python.Graph">
     <configuration name="Built in Heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_and_Data_Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,9 +159,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Graph" />
         <item itemvalue="Python.Heap" />
         <item itemvalue="Python.Built in Heap" />
-        <item itemvalue="Python.Graph" />
         <item itemvalue="Python.Selection_Sort" />
         <item itemvalue="Python.Linked_List" />
       </list>
