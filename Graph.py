@@ -53,8 +53,9 @@ class Graph:
                 if item == destination_node:
                     break
 
-            for i in self.adj_list[item]:
-                stack.append(i)
+                for i in self.adj_list[item]:
+                    if not found[i]:
+                       stack.append(i)
 
 
 graph1 = Graph(['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'])

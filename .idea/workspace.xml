@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90bd6e53-441d-4711-a2c1-c4428bd03b42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dijkstra's Algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap_Sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Built in Heap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Circular Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Circular_Linked_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linked_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queue_Linked_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queue_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selection_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selection_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_Linked_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_Array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Graph">
+  <component name="RunManager" selected="Python.Heap_Sort">
     <configuration name="Built in Heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_and_Data_Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linked_List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Heap_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_and_Data_Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heap_Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,18 +142,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Heap" />
-      <item itemvalue="Python.Linked_List" />
       <item itemvalue="Python.Selection_Sort" />
       <item itemvalue="Python.Graph" />
       <item itemvalue="Python.Built in Heap" />
+      <item itemvalue="Python.Heap_Sort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Graph" />
+        <item itemvalue="Python.Heap_Sort" />
         <item itemvalue="Python.Heap" />
+        <item itemvalue="Python.Graph" />
         <item itemvalue="Python.Built in Heap" />
         <item itemvalue="Python.Selection_Sort" />
-        <item itemvalue="Python.Linked_List" />
       </list>
     </recent_temporary>
   </component>
